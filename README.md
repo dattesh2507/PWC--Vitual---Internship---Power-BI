@@ -7,7 +7,7 @@ This project is part of the [PwC Switzerland Power BI in Data Analytics Virtual 
 Through meticulous data analysis and visualization, this project aims to support informed decision-making and highlight areas for improvement and innovation.
 
 <p align="center">
-    <img src="README%20assests/Project_Themes.png" alt=" Intro image" style="width: 80%"/>
+    <img src="https://github.com/user-attachments/assets/a0d27f24-7de5-4e3d-80d7-a0f319aa8ab6" alt=" Intro image" style="width: 80%"/>
 </p>
 
 ## Installation and Usage Instructions
