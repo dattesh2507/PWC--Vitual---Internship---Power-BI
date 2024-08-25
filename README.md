@@ -22,9 +22,20 @@ The `.pbix` files associated with each dashboard are hosted within this reposito
 
 To download the `.pbix` files, navigate to the folder in this repository where they are stored, select a file, and use the 'Download' button. Cloning or downloading the entire repository is an alternative method for accessing all files.
 
+
+📌 Scenario
+At PwC, we work with global organizations, upskilling our 276,000 employees. Our goal is to provide everyone with the opportunity to learn, work, and participate in the digital world. Our employees have the chance to become "Digital Accelerators" by rapidly deepening their skills in digital specialties such as data, automation, AI, and digital storytelling. They do this by learning self-service tools and coding languages and applying these skills across our business. Your manager, Giulia, will guide you through your upskilling journey in PowerBI. You'll become a data Jedi and Digital Accelerator. An important client (communication has already reached out to you for help visualizing their data.
+
+This virtual experience program consists of 3 tasks:
+
+Task 1: Create Call Centre Dashboard - visualizing customer and agent behavior.
+Task 2: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
+Task 3: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
+
+
 ## Dashboards and Visualizations
 
-### Call Centre Trends
+### Task 1: Call Center Customer Satisfaction Dashboard
 
 The first dashboard provides a comprehensive view of call centre metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call centre operations. 
 
@@ -33,3 +44,23 @@ Access [here](https://app.powerbi.com/links/pBsNzWJohZ?ctid=4b469bf3-7edf-4593-9
 <p align="center">
     <img src="https://github.com/user-attachments/assets/ad6e3a5f-c5d5-4bec-a280-7cda32c0d99f" alt="Call Centre Trends" style="width: 80%"/>
 </p>
+
+
+### Task 2: Telecom Churn and Retention Analysis Dashboard
+
+This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
+
+Access [here](https://app.powerbi.com/links/h7UHnALaOJ?ctid=4b469bf3-7edf-4593-9b77-e4807953c730&pbi_source=linkShare) for live and interactive dashboards.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/59a80908-ddd0-4c31-a514-f6dbab4f561e" alt="Customer Retention 1" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/0a8cd1b2-fe77-45e6-9047-9a47e7eaa552" alt="Customer Retention 2" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2ca0ac31-2453-4e91-8522-bb6e342eed6b" alt="Customer Retention 2" style="width: 80%"/>
+</p>
+
