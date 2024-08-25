@@ -64,3 +64,18 @@ Access [here](https://app.powerbi.com/links/h7UHnALaOJ?ctid=4b469bf3-7edf-4593-9
     <img src="https://github.com/user-attachments/assets/2ca0ac31-2453-4e91-8522-bb6e342eed6b" alt="Customer Retention 2" style="width: 80%"/>
 </p>
 
+Task 3: Diversity and Inclusion Dashboard
+Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
+
+Access [here](https://app.powerbi.com/links/yDAVmsVqyT?ctid=4b469bf3-7edf-4593-9b77-e4807953c730&pbi_source=linkShare) for live and interactive dashboards.
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/1808b6c8-c932-43dc-ba59-1680ee3bfda7" alt="Customer Retention 2" style="width: 80%"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2a61e93a-3269-4846-9ae8-f1e06b2d57ce"  alt="Customer Retention 2" style="width: 80%"/>
+</p>
+
+
+
